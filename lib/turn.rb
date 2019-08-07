@@ -48,7 +48,6 @@ def turn(board)
   display_board(board)
 end
 
-
 =begin
   puts "Please enter 1-9:"
   input = gets.chomp
